@@ -1,5 +1,5 @@
-const int  echo = 13;
-const int trig = 12;
+const int  echo = 12;
+const int trig = 13;
 const int RELAY_PIN = 4; // Arduino pin connected to Relay's pin
 const int buzzer = 9;
 
