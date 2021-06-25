@@ -17,7 +17,7 @@ During this quarantine, I have noticed managing the water level of the tank in o
 
 7.Breadboard. (preferabbly small & cute)
 
-8.Power Supply that converts 240V to 5V.
+8.Power Supply that converts 240V AC to 5V DC.
 
 9.A two pole switch. 
 
