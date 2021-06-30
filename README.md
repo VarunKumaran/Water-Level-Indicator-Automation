@@ -25,6 +25,4 @@ During this quarantine, I have noticed managing the water level of the tank in o
 
 11.A casing for the whole circuit, which is a good insulator.
 
-# Step to launch the project:
 
-STEP 1: 
